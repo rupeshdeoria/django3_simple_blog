@@ -1,0 +1,6 @@
+# IDE ignore part
+/.vscode
+
+#ignore sqllite file
+db.sqlite3
+
