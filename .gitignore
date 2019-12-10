@@ -4,3 +4,6 @@
 #ignore sqllite file
 db.sqlite3
 
+#ignore migrations file
+blogapp/migrations/*
+
